@@ -1,0 +1,29 @@
+{
+  "name": "@sparing-software/nuxt-sparing-center",
+  "version": "1.0.0",
+  "description": "Nuxt plugin manager",
+  "main": "lib/module.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt",
+    "module",
+    "plugin",
+    "manager"
+  ],
+  "author": "SparingSoftware",
+  "license": "MIT",
+  "dependencies": {
+    "@sparing-software/nuxt-service-plugin": "^1.0.2",
+    "@sparing-software/v-clamp": "^1.0.0",
+    "@sparing-software/vue-on-resize": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
