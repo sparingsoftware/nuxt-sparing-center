@@ -23,6 +23,7 @@
     "@sparing-software/nuxt-service-plugin": "^1.0.2",
     "@sparing-software/v-clamp": "^1.0.0",
     "@sparing-software/vue-on-resize": "^1.0.0",
+    "normalize.css": "^8.0.1",
     "sass-utils-collection": "^0.5.0"
   },
   "devDependencies": {

@@ -33,6 +33,8 @@ sparingCenter: {
 | `axiosI18nHeader`              | Add `Accept-Language` header with current `i18n.locale` value to every axios request. Caveat: `@sparing-software/nuxt-sparing-center` must be set before `@nuxtjs/axios` module. | `false` |
 | `styleResources`               | Import `@/assets/sass/_vars.scss` and `@/assets/sass/_mixins.scss` to every vue component. | `true` |
 | `sassUtilsCollection`          | Import [sass-utils-collection](https://github.com/adrianklimek/sass-utils-collection) - `styleResources` must be enabled. | `true` |
+| `fixBrowserStyles`             | Overwrite user agent styles: `'reset'`, `'normalize'`, `false` | `'reset'` |
+| `boxSizing`                    | Set global `box-sizing: border-box` | `true` |
 
 ## Example
 ```js
