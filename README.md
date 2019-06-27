@@ -16,12 +16,10 @@ npm i @sparing-software/nuxt-sparing-center
 Add module in `nuxt.config.js`
 ```js
 modules: [
-  '@sparing-software/nuxt-sparing-center'
-],
-
-sparingCenter: {
-  // ... options
-}
+  ['@sparing-software/nuxt-sparing-center', {
+    // ... options
+  }]
+]
 ```
 
 ## Options
@@ -39,15 +37,16 @@ sparingCenter: {
 
 ## Example
 ```js
-sparingCenter: {
+['@sparing-software/nuxt-sparing-center', {
   baseImport: true,
   axiosI18nHeader: true,
+  axiosGenerateCache: true,
   plugins: [
-    'vue-on-resize',
     'nuxt-service-plugin',
-    'v-clamp'
+    'v-clamp',
+    'vue-on-resize'
   ]
-}
+}]
 ```
 
 ## Contributing
