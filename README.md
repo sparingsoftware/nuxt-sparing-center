@@ -26,7 +26,7 @@ modules: [
 
 | Option                         | Description     | Default |
 |--------------------------------|-----------------|---------|
-| `plugins`                      | Import nuxt plugins without any installation or configuration. Available plugins: <br> ['[vue-on-resize](https://github.com/SparingSoftware/vue-on-resize)', '[nuxt-service-plugin](https://github.com/SparingSoftware/nuxt-service-plugin)', '[v-clamp](https://github.com/SparingSoftware/v-clamp)'] | `[]` |
+| `plugins`                      | Import nuxt plugins without any installation or configuration. Available plugins: <br> ['[vue-on-resize](https://github.com/SparingSoftware/vue-on-resize)', '[nuxt-service-plugin](https://github.com/SparingSoftware/nuxt-service-plugin)', '[v-clamp](https://github.com/SparingSoftware/v-clamp)', '[100vh](https://github.com/SparingSoftware/100vh)'],  | `[]` |
 | `baseImport`                   | Autoimport [base components](https://vuejs.org/v2/style-guide/#Base-component-names-strongly-recommended) and make them global. | `false` |
 | `axiosI18nHeader`              | Add `Accept-Language` header with current `i18n.locale` value to every axios request. Caveat: `@sparing-software/nuxt-sparing-center` must be set before `@nuxtjs/axios` module. | `false` |
 | `axiosGenerateCache`            | Enable axios cache in site generation to prevent HTTP flood. | `false` |
