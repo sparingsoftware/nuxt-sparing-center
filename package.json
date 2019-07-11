@@ -1,6 +1,6 @@
 {
   "name": "@sparing-software/nuxt-sparing-center",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Nuxt plugin manager",
   "main": "lib/module.js",
   "directories": {
