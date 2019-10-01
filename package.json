@@ -18,6 +18,14 @@
   ],
   "author": "SparingSoftware",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SparingSoftware/nuxt-sparing-center/issues"
+  },
+  "homepage": "https://github.com/SparingSoftware/nuxt-sparing-center#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparingSoftware/nuxt-sparing-center.git"
+  },
   "dependencies": {
     "@nuxtjs/style-resources": "^0.1.2",
     "@sparing-software/100vh": "^1.1.0",
