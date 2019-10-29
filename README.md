@@ -36,6 +36,7 @@ modules: [
 | `sassUtilsCollection`          | Import [sass-utils-collection](https://github.com/adrianklimek/sass-utils-collection) - `styleResources` must be enabled. | `true` |
 | `boxSizing`                    | Set global `box-sizing: border-box` | `true` |
 | `fixBrowserStyles`             | Overwrite user agent styles: `'reset'`, `'normalize'`, `false` | `'reset'` |
+| `fixFontSmoothing`             | Fix default font-smoothing: `true`, `false` | `true` |
 
 ## Example
 ```js
