@@ -34,6 +34,7 @@ modules: [
 | `axiosGenerateCache`           | Enable axios cache in site generation to prevent HTTP flood. | `false` |
 | `styleResources`               | Import `@/assets/sass/_vars.scss` and `@/assets/sass/_mixins.scss` to every vue component. | `true` |
 | `sassUtilsCollection`          | Import [sass-utils-collection](https://github.com/adrianklimek/sass-utils-collection) - `styleResources` must be enabled. | `true` |
+| `dynamicStyles`                | Import [nuxt-dynamic-styles-module](https://github.com/SparingSoftware/nuxt-dynamic-styles-module).<br> Available options: {[...options](https://github.com/SparingSoftware/nuxt-dynamic-styles-module#options)} | `null` |
 | `boxSizing`                    | Set global `box-sizing: border-box` | `true` |
 | `fixBrowserStyles`             | Overwrite user agent styles: `'reset'`, `'normalize'`, `false` | `'reset'` |
 | `fixFontSmoothing`             | Fix default font-smoothing: `true`, `false` | `true` |
