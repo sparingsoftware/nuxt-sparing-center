@@ -18,7 +18,7 @@
   </p>
   
   <p align="center">
-    Nuxt plugin manager to quick project setup :rocket:
+    Nuxt plugin manager for quick project setup :rocket:
   </p>
 </div>
 
