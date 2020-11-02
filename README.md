@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Nuxt sparing center</h1>
+  <h1 align="center">Nuxt Sparing Center</h1>
 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/22821575/97916617-8709f580-1d53-11eb-9c88-ad89968170ba.png" alt="Nuxt Sparing Center Logo">
