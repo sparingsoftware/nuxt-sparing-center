@@ -1,10 +1,26 @@
-# Nuxt sparing center
+<div align="center">
+  <h1 align="center">Nuxt sparing center</h1>
 
-[![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/SparingSoftware/nuxt-sparing-center/blob/master/LICENSE)
-[![Downloads number](https://img.shields.io/npm/dt/@sparing-software/nuxt-sparing-center.svg)](https://www.npmjs.com/package/@sparing-software/nuxt-sparing-center)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/22821575/97916617-8709f580-1d53-11eb-9c88-ad89968170ba.png" alt="Nuxt Sparing Center Logo">
+  </p>
 
-Nuxt plugin manager to quick project setup :rocket:
+  <p align="center">
+    <a href="https://github.com/SparingSoftware/nuxt-sparing-center/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT license">
+    </a> 
+    <a href="https://www.npmjs.com/package/@sparing-software/nuxt-sparing-center">
+      <img src="https://img.shields.io/npm/dt/@sparing-software/nuxt-sparing-center.svg" alt="Downloads number">
+    </a>
+    <a href="https://standardjs.com">
+      <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="JavaScript Style Guide">
+    </a>
+  </p>
+  
+  <p align="center">
+    Nuxt plugin manager to quick project setup :rocket:
+  </p>
+</div>
 
 ## Installation
 Install package in your project 
