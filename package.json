@@ -31,7 +31,7 @@
     "@sparing-software/100vh": "^1.1.0",
     "@sparing-software/nuxt-service-module": "^1.0.1",
     "@sparing-software/v-clamp": "^1.0.1",
-    "@sparing-software/vue-on-resize": "^1.0.2",
+    "@sparing-software/vue-on-resize": "^1.1.1",
     "axios-extensions": "^3.0.6",
     "lru-cache": "^5.1.1",
     "normalize.css": "^8.0.1",
